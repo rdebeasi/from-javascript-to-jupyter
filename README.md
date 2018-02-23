@@ -1,4 +1,4 @@
-# From Javascript to Jupyter
+# From JavaScript to Jupyter
 Here are resources that I’m using to learn Jupyter, data science, mapping, and Jupyter widget development.
 
 ## Data Science & Jupyter Foundations
