@@ -1,9 +1,11 @@
 # From JavaScript to Jupyter
 Here are resources that I’m using to learn Jupyter, data science, mapping, and Jupyter widget development.
 
-## Data Science & Jupyter Foundations
+## Foundations
+### Data science + Jupyter + Python
 - [Getting Started With Jupyter Notebook for Python](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46)
 - Mapboxgl-Jupyter ([repo](https://github.com/mapbox/mapboxgl-jupyter), [demo](https://www.mapbox.com/labs/jupyter/))
+- [Learn x in Y minutes, where X=python3](https://learnxinyminutes.com/docs/python3/)
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
 ## Developing Jupyter Widgets
