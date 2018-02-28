@@ -20,3 +20,10 @@ Here are resources that I’m using to learn Jupyter, data science, mapping, and
 ## Containerized Jupyter
 - [docker-stacks](https://github.com/jupyter/docker-stacks)
 - [JupyterHub for OpenShift](https://github.com/jupyter-on-openshift/jupyterhub-quickstart)
+
+## Code Quality & Testing
+- [Testing Jupyter Notebooks](https://blog.thedataincubator.com/2016/06/testing-jupyter-notebooks/)
+- [How to write a production-level code in Data Science](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced)
+
+## Next Steps & Inspiration
+- [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
