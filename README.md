@@ -16,6 +16,7 @@ Here are resources that I’m using to learn Jupyter, data science, mapping, and
 ## Mapping
 - [Getting Started on Geospatial Analysis with Python, GeoJSON and GeoPandas](https://www.twilio.com/blog/2017/08/geospatial-analysis-python-geojson-geopandas.html)
 - [GeoServer](http://geoserver.org/)
+- [Intro to PostGIS](http://workshops.boundlessgeo.com/postgis-intro/)
 
 ## Containerized Jupyter
 - [docker-stacks](https://github.com/jupyter/docker-stacks)
