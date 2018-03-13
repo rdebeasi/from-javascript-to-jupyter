@@ -22,6 +22,10 @@ Here are resources that I’m using to learn Jupyter, data science, mapping, and
 - [docker-stacks](https://github.com/jupyter/docker-stacks)
 - [JupyterHub for OpenShift](https://github.com/jupyter-on-openshift/jupyterhub-quickstart)
 
+## User Experience
+- [Mapbrief](http://mapbrief.com/) - In particular, see [How the Public Actually Uses Local Government Web Maps](http://mapbrief.com/2012/08/01/how-the-public-actually-uses-local-government-web-maps-metrics-from-denver/)
+- [Why does Data Vis need a style guide?](https://youtu.be/0rQ0NP8JPHQ) (video) - See also the [transcript](http://www.openvisconf.com/files/transcripts/OpenVis_Amy_Cesal.txt) for this video.
+
 ## Code Quality & Testing
 - [Testing Jupyter Notebooks](https://blog.thedataincubator.com/2016/06/testing-jupyter-notebooks/)
 
