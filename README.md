@@ -31,3 +31,4 @@ Here are resources that I’m using to learn Jupyter, data science, mapping, and
 
 ## Next Steps & Inspiration
 - [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+- [OpenVis Conf](http://www.openvisconf.com/) - See videos from past conferences ([2017](http://www.openvisconf.com/2017) - [2013](http://www.openvisconf.com/2013)).
